@@ -1,5 +1,5 @@
 /**
- * Description of css file
+ * main CCS file applies style to webpage
  */
 
 * {
@@ -10,7 +10,7 @@
 
 body {
     background-color: #d9dcd6;
-    /* minimum width prevents page from breaking */
+    /* minimum width prevents text from overlapping */
     min-width: 1050px;
 }
 
